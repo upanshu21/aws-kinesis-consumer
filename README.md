@@ -19,7 +19,7 @@ You can write the process logic according to your needs.
 
 ## To remember
 
--Delete your kinesis data stream after testing.
--Application creates DynamoDb instance internally for maintaining lease record. Charges will apply for that.
+- Delete your kinesis data stream after testing.
+- Application creates DynamoDb instance internally for maintaining lease record. Charges will apply for that.
 
  
